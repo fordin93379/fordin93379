@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fordin93379
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity, .NET
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning react, js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/FORDIN93379
 
