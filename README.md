@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fordin93379
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning react, js, typescript
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning react, js, typescript, python, django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/FORDIN93379
 
